@@ -1,0 +1,22 @@
+# Week 0 Lecture
+- Python
+- CMD, where we can command the computer
+- OpenAI API to use chatgpt
+- Binary as a language that computer only understand, other example of numeral system is unary and decimal
+- Everything is represented as number:
+- ASCII as standarized way to interpret number as something like character or some symbols, while unicode is the more modern one that can represent emojis and other symbols.
+- RGB to represent number as color
+- Video and sound measure things like pitch, volume, and duration to interpret it as numbers.
+- Searching algorithm: Linear search O(n), Search two page at the same time O(n/2), and binary search O(log n)
+- Pseudocode -> human language step-by-step logic, or more like human language of coding
+- Basic logic like:
+- function as an action
+- Condition as a decision
+- Boolean expression as a true or false
+- loop as repetition
+- edge case as special case (scratch)
+- abstraction is hiding lower-level complexion behind simpler tools
+- Code is more precise version of pseudocode
+- Compiler is something that convert higher level language to the lower level one
+- (Other note) Interpreter is something that execute high level language directly without resulting other lower level language file.
+- Scratch is used before coding to train one logic by using blocks.
