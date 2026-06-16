@@ -1,4 +1,4 @@
-![[logo.png|690]]
+![Devaksa Logo](https://raw.githubusercontent.com/devaksa01/redev2026/refs/heads/main/logo.png)
 # **Re-dev** 2026
 -> Is devaksa01's (me) personal project to relearn and rebuild my programming skills starting from *15 June 2026*.
 This project act as my early journey to start a professional career as programmer too.
