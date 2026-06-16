@@ -114,6 +114,11 @@ git add --renormalize .
 git commit -m "normalize line endings"
 git push
 ```
+#### 2. Fix permission denied when push
+change the remote url to ssh if u choose ssh when doing `gh auth login`:
+```shell
+git remote set-url origin git@github.com:devaksa01/redev2026.git
+```
 
 # NOTES:
 **Origin**: is a convention usually used to name remote address
