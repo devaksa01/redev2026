@@ -1,5 +1,7 @@
 # Day \[count\] Log
 
+## Date
+
 ## Goal
 
 ## What I learned
