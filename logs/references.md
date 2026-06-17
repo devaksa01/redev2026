@@ -1,4 +1,4 @@
-# Week \[count\] Log
+# Day \[count\] Log
 
 ## Goal
 
