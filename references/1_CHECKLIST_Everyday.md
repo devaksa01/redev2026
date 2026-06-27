@@ -13,4 +13,4 @@ Do this everyday:
 - [ ] (If created something) Answer the creation rules
 - [ ] (If AI generate u code) Answer the AI rules
 - [ ] Commit progress update to GitHub
-- [ ] Stop timer
+- [ ] Stop timer (At least 2 hour)
