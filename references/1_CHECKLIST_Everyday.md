@@ -1,12 +1,12 @@
 Last day: 15-06-2026 (Monday, June 2026)
 
 Do this everyday:
-- [x] Start timer
-- [x] Look at daily agenda
-- [x] Mark it
+- [ ] Start timer
+- [ ] Look at daily agenda
+- [ ] Mark it
 - [ ] Do the task
-- [x] Create log inside /logs folder (references in /logs)
-- [x] Create notes inside /notes folder as u learn (references in /notes)
+- [ ] Create log inside /logs folder (references in /logs)
+- [ ] Create notes inside /notes folder as u learn (references in /notes)
 - [ ] Update log
 - [ ] Update notes
 - [ ] (If using obsidian) Update obsidian checklist
