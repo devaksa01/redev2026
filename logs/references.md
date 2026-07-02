@@ -4,6 +4,7 @@
 
 ## Goal
 
+## Hours spent
 ## What I learned
 
 ## What I built

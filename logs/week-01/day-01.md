@@ -1,7 +1,11 @@
 ## Date
 15 June 2026
+
 ## Goal
  Write all necessary markdown, set up working dir, GitHub repo, and then learn CS50.
+
+## Hours spent
+2 Hours
 
 ## What I learned
 - How to make Markdown with Obsidian
