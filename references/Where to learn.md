@@ -18,3 +18,6 @@ GitHub, roadmap.sh, Frontend Mentor, Kaggle for data, freeCodeCamp for drills
 
 **Reading habit:**  
 MDN Web Docs for web, official docs for frameworks, PostgreSQL docs, AWS docs.
+
+**Python**:
+PY4E, CS50p, Freecodecamp
